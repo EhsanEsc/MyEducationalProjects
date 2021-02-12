@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "mutex": "cpp",
+        "thread": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp"
+    }
+}
