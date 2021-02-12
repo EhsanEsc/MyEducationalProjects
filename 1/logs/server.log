@@ -1,0 +1,36 @@
+Server Created Socket
+Bind Port to Socket Is Completed
+Server is Listening
+
+New Client Accepted!
+Welcome Message Sent Successfully
+Client ID: 0
+
+Number 3 sent by client 0
+
+New Client Accepted!
+Welcome Message Sent Successfully
+Client ID: 1
+
+Number 3 sent by client 1
+
+New Client Accepted!
+Welcome Message Sent Successfully
+Client ID: 2
+
+Number 3 sent by client 2
+
+#Group Created#
+Group Port: 10022
+Number Of Players: 3
+Players: 0 1 2 
+
+Client Disconnected
+Info: ID 0 , IP 127.0.0.1 , PORT 49370 
+
+Client Disconnected
+Info: ID 1 , IP 127.0.0.1 , PORT 49374 
+
+Client Disconnected
+Info: ID 2 , IP 127.0.0.1 , PORT 49378 
+
